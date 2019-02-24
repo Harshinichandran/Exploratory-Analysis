@@ -1,0 +1,2 @@
+# Exploratory-Analysis
+In this assignment, I have conducted a guided exploration over the Olympic History data set. I have used some of the most common exploratyou learn most of ion/aggregation/descriptive operations. This should also help the key functionalities in Pandas and used visualization libraries to identify patterns in data that will help in your further data analysis. You will also explore most popular chart types and how to use different libraries and styles to make your visualizations more attractive.
